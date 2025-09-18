@@ -1,0 +1,57 @@
+{
+  "domain": "social_science",
+  "subdomain": "sociology",
+  "id": "1121",
+  "input": {
+    "modal": {
+      "video1": "video/vid_1121_01.mp4",
+      "audio1": "audio/aud_1121_01.mp3"
+    },
+    "content": "Based on <video1> showing an Asian woman’s after-work routine—returning home, using smart devices, and organizing her space—and the calming music in <audio1>, analyze <how urban middle-class women use domestic rituals to emotionally decompress and restore spatial control>.Your answer should include at least one image as the key frame for answering the question."
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1121_01.png"
+    },
+    "content": "The image <image1> captures the exact moment the woman places her hand on a smart lock—a gesture symbolizing her transition from a public role to a private one. This act triggers a sequence of post-work rituals: changing into loungewear, using smart appliances to tidy up, and restoring a personalized, controlled space. These everyday routines reflect urban women's desire to manage emotional boundaries and reclaim agency in domestic settings. The calming background music reinforces this process, aligning emotional rhythm with physical action. Together, these elements illustrate a form of self-repair embedded in middle-class domestic life—where the home becomes not just a shelter, but a site for psychological regulation and identity reconstruction."
+  }
+}
+{
+  "domain": "social_science",
+  "subdomain": "sociology",
+  "id": "1122",
+  "input": {
+    "modal": {
+      "video1": "video/vid_1122_01.mp4",
+      "audio1": "audio/aud_1122_01.mp3"
+    },
+    "content": "Based on <video1>, which documents a teenager’s daily routine—from morning wake-up to school, lunch, after-school activities, and evening homework—together with <audio1> containing English narration and subtitles, analyze <how modern education systems shape adolescents’ social roles and temporal consciousness through daily routines>.Your answer should include at least one image as the key frame for answering the question."
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1122_01.png",
+      "image2": "image/img_1122_02.png"
+    },
+    "content": "<image1> depicts the exterior of a typical British suburban home, surrounded by greenery and a wooden fence—marking a symbolic threshold between private life and public responsibilities. <image2> shows a teenage boy reflecting on his school life, notably expressing dissatisfaction with school meals. These scenes illustrate how educational institutions regiment adolescents’ time and behavior, from structured mornings to scheduled after-school tasks. Such structuring fosters discipline and internalizes societal expectations of the ‘student role.’ The regularity of the routine and use of simple English expressions in the video reflect how schools not only teach language but also cultivate time awareness, behavioral regulation, and institutional conformity."
+  }
+}
+{
+  "domain": "social_science",
+  "subdomain": "sociology",
+  "id": "1123",
+  "input": {
+    "modal": {
+      "video1": "video/vid_1123_01.mp4",
+      "audio1": "audio/aud_1123_01.mp3"
+    },
+    "content": "Based on <video1>, which uses animated characters to depict daily activities such as waking up, brushing teeth, drying hair, walking the dog, and eating dinner, along with <audio1> that contains simple present-tense narration, analyze <how educational media employs daily life storytelling to socialize children into time management and normative routines>.Your answer should include at least one image as the key frame for answering the question."
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1123_01.png",
+      "image2": "image/img_1123_02.png",
+      "image3": "image/img_1123_03.png"
+    },
+    "content": "<image1> shows the character waking up at 7:00 AM, with the digital clock prominently displayed—a visual cue emphasizing structured time as the foundation of daily routine. This image introduces children to temporal awareness as a social skill. <image2> captures the character drying her hair in front of a mirror, with the accompanying sentence “I dry my hair.” The scene visually enacts grooming as a normative morning behavior. <image3> depicts the character walking her dog at night, followed by dinner, reinforcing responsibility and closure in the daily rhythm. Together, the visuals and language in this animated video create a narrative that normalizes routines as socially desirable. It subtly embeds expectations for temporal order, bodily regulation, and domestic participation, serving as a form of early socialization into structured daily life."
+  }
+}

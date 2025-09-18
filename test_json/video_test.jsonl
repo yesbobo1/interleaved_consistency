@@ -1,0 +1,51 @@
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "901",
+    "input": {
+        "modal": {
+            "audio1": "audio/aud_0901_01.mp3"
+        },
+        "content": "Create a video representation based on the following: <audio1>."
+    },
+    "output": {
+        "modal": {
+            "video1": "video/vid_0901_01.mp4"
+        },
+        "content": "The individual is depicted initially sitting and working intently, overshadowed by the ambient glow of a neon sign that spells 'FUTURE'. As the sequence unfolds, they rise, steadily moving towards the neon, illuminating the path with the sign's message, \"EVERYTHING YOU DO NOW IS FOR THE FUTURE.\" These visuals encapsulate their contemplative journey, reinforced by their determined stance. This can be witnessed in <video1>."
+    }
+}
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "902",
+    "input": {
+        "modal": {
+            "audio1": "audio/aud_0902_01.mp3"
+        },
+        "content": "Imagine a video described by <audio1>, where a young woman interacts with a futuristic interface. Explain how such a video could be visually represented, detailing the elements and atmosphere."
+    },
+    "output": {
+        "modal": {
+            "video1": "video/vid_0902_01.mp4"
+        },
+        "content": "This video visually captures a technologically advanced setting, emphasizing the modern interface and ambient lighting. The <video1> beautifully integrates these elements, showcasing innovation and engagement."
+    }
+}
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "903",
+    "input": {
+        "modal": {
+            "audio1": "audio/aud_0903_01.mp3"
+        },
+        "content": "Imagine a scene where <audio1> is taking place. How would you create a video to visually represent this description?"
+    },
+    "output": {
+        "modal": {
+            "video1": "video/vid_0903_01.mp4"
+        },
+        "content": "To create a <video1> that visually represents the description, one can imagine a tech-savvy office space with vibrant neon lighting in blue and orange hues, where a person wearing a blue shirt participates in a video conference on a laptop, displaying multiple participants in separate windows. This setting enhances modern remote work environments and emphasizes enjoyable, smooth collaborations."
+    }
+}

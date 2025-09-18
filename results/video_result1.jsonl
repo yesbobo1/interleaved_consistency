@@ -1,0 +1,22 @@
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "836",
+    "content": "In the continuation, the movements from the initial scene transition smoothly into <video2>, accompanied by coherent narrative from <audio2>, creating a seamless follow-up to the preceding actions.",
+    "modal": {},
+    "score": {
+        "coherence": 5,
+        "style_consistency": 5
+    }
+}
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "837",
+    "content": "The continuation unfolds as <video2> captures the engaging evolution of the scene, accompanied by the harmonious tones in <audio2>, seamlessly extending the visual and auditory journey.",
+    "modal": {},
+    "score": {
+        "coherence": 4,
+        "style_consistency": 5
+    }
+}

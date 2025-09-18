@@ -1,0 +1,12 @@
+torch
+transformers
+openai
+qwen-vl-utils
+easyocr
+opencv-python
+open3d
+matplotlib
+python-dotenv
+requests
+pandas
+Pillow

@@ -1,0 +1,57 @@
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "601",
+    "input": {
+        "modal": {
+            "image1": "image/img_0601_01.png"
+        },
+        "content": "What is Artificial Intelligence? Explain with historical context and include <image1> in the explanation."
+    },
+    "output": {
+        "modal": {
+            "image2": "image/img_0601_02.png",
+            "image3": "image/img_0601_03.png",
+            "image4": "image/img_0601_04.png"
+        },
+        "content": "Artificial Intelligence refers to the development of computer systems that can perform tasks typically requiring human intelligence, such as visual perception and decision-making. <image2> These systems involve complex algorithms and data processing techniques. <image3> Modern examples include smart assistants that understand and process human speech. <image4> The field has seen tremendous growth, as shown by the increase in AI research output over recent years."
+    }
+}
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "602",
+    "input": {
+        "modal": {
+            "image1": "image/img_0602_01.png"
+        },
+        "content": "What are the two main categories of Artificial Intelligence? Ensure your answer includes images and text to support your explanation. Interleave <image1> tag at the appropriate position in the text and clearly indicate that the answer must include the number of images in the output to support or illustrate the explanation."
+    },
+    "output": {
+        "modal": {
+            "image2": "image/img_0602_02.png",
+            "image3": "image/img_0602_03.png",
+            "image4": "image/img_0602_04.png"
+        },
+        "content": "The two main categories of Artificial Intelligence are Narrow AI and General AI. Narrow AI focuses on a specific task, exemplified by <image2>, and is commonly found in technologies like virtual assistants and autonomous cars. On the other hand, General AI aims to achieve human-like intelligence and the ability to learn and perform various tasks, as depicted in <image3>. To better understand the distinctions, <image4> provides a side-by-side comparison highlighting their key differences."
+    }
+}
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "603",
+    "input": {
+        "modal": {
+            "image1": "image/img_0603_01.png"
+        },
+        "content": "Explain what Machine Learning is and ensure the explanation includes an appropriate number of visual aids such as <image1> to support or illustrate the explanation."
+    },
+    "output": {
+        "modal": {
+            "image2": "image/img_0603_02.png",
+            "image3": "image/img_0603_03.png",
+            "image4": "image/img_0603_04.png"
+        },
+        "content": "Machine Learning is a subset of Artificial Intelligence focused on developing algorithms that learn from data. These algorithms can make predictions or decisions based on the input data. <image2> elaborates on the flow of data through the model, <image3> categorizes the learning styles, and <image4> depicts the model's improvement over time with increasing data inputs."
+    }
+}

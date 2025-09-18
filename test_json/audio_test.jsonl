@@ -1,0 +1,51 @@
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "501",
+    "input": {
+        "modal": {
+            "audio1": "audio/aud_0501_01.wav"
+        },
+        "content": "Listen to the music in <audio1> and summarize the atmosphere and musical elements of the track. Be sure to include audio in your answer to support the description."
+    },
+    "output": {
+        "modal": {
+            "audio2": "audio/aud_0501_02.mp3"
+        },
+        "content": "The track in <audio2> features a relaxing atmosphere dominated by an electric guitar with a descending riff, enhanced by subtle percussion and bass elements, making it ideal for a laid-back setting."
+    }
+}
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "502",
+    "input": {
+        "modal": {
+            "audio1": "audio/aud_0502_01.wav"
+        },
+        "content": "Please listen to <audio1> and describe the atmosphere it creates. Make sure your answer includes an audio element to support your explanation."
+    },
+    "output": {
+        "modal": {
+            "audio2": "audio/aud_0502_02.mp3"
+        },
+        "content": "<audio2> provides a soothing ambiance, ideal for creating a calm and relaxing atmosphere reminiscent of a coffee shop setting."
+    }
+}
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "503",
+    "input": {
+        "modal": {
+            "audio1": "audio/aud_0503_01.wav"
+        },
+        "content": "Listen to the <audio1> to understand its mood and describe the ambiance it creates. The answer must include a comprehensive description supported by audio."
+    },
+    "output": {
+        "modal": {
+            "audio2": "audio/aud_0503_02.mp3"
+        },
+        "content": "The audio track features a chill ambiance well-suited for relaxing environments such as a coffee shop. It uses an electric guitar with a mixture of descending runs, arpeggiated chords, and slides supported by minimal percussion and piano. This combination contributes to a soothing and laid-back atmosphere that is effectively captured in the <audio2>."
+    }
+}

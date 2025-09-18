@@ -1,0 +1,39 @@
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "901",
+    "content": "The individual is depicted initially sitting and working intently, overshadowed by the ambient glow of a neon sign that spells 'FUTURE'. As the sequence unfolds, they rise, steadily moving towards the neon, illuminating the path with the sign's message, \"EVERYTHING YOU DO NOW IS FOR THE FUTURE.\" These visuals encapsulate their contemplative journey, reinforced by their determined stance. This can be witnessed in <video1:In a dimly lit setting, a stationary camera focuses on a monitor showing a newspaper article about improv, with \"FUTURE\" in neon letters nearby, as a person in a denim jacket walks by.>.",
+    "modal": {
+        "video1": "In a dimly lit setting, a stationary camera focuses on a monitor showing a newspaper article about improv, with \"FUTURE\" in neon letters nearby, as a person in a denim jacket walks by."
+    },
+    "score": {
+        "coherence": 3,
+        "style_consistency": 3
+    }
+}
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "902",
+    "content": "This video visually captures a technologically advanced setting, emphasizing the modern interface and ambient lighting. The <video1:A woman in a light blue shirt is engaged in a positive video call from a cozy, neon-lit workspace, surrounded by a laptop, mug, papers, and books.> beautifully integrates these elements, showcasing innovation and engagement.",
+    "modal": {
+        "video1": "A woman in a light blue shirt is engaged in a positive video call from a cozy, neon-lit workspace, surrounded by a laptop, mug, papers, and books."
+    },
+    "score": {
+        "coherence": 5,
+        "style_consistency": 5
+    }
+}
+{
+    "domain": "natural_science",
+    "subdomain": "computer_science",
+    "id": "903",
+    "content": "To create a <video1:The video shows a person in a blue shirt engaged in a multi-participant video call on a laptop amid vibrant neon lighting, with the phrase \"Selama sinerginya asik\" suggesting a theme of collaboration.> that visually represents the description, one can imagine a tech-savvy office space with vibrant neon lighting in blue and orange hues, where a person wearing a blue shirt participates in a video conference on a laptop, displaying multiple participants in separate windows. This setting enhances modern remote work environments and emphasizes enjoyable, smooth collaborations.",
+    "modal": {
+        "video1": "The video shows a person in a blue shirt engaged in a multi-participant video call on a laptop amid vibrant neon lighting, with the phrase \"Selama sinerginya asik\" suggesting a theme of collaboration."
+    },
+    "score": {
+        "coherence": 4,
+        "style_consistency": 4
+    }
+}

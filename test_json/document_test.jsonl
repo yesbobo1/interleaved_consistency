@@ -1,0 +1,54 @@
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "1",
+    "input": {
+        "modal": {
+            "video1": "video/vid_0001_01.mp4",
+            "audio1": "audio/aud_0001_01.mp3"
+        },
+        "content": "Critically analyze the significance of the events portrayed in <video1> and determine how <audio1> enhances the understanding of these events. The answer should include a relevant document that provides more insight or evidence to support your explanation."
+    },
+    "output": {
+        "modal": {
+            "document1": "document/doc_0001_01.png"
+        },
+        "content": "The events depicted in the video demonstrate a significant cultural moment wherein various elements work in concert to amplify the viewer's experience. The audio track plays a crucial role by providing emotive cues and context that deepen the narrative. For a more comprehensive understanding, one should examine the <document1> associated with these events, which provides visual context and supplementary information highlighting the critical aspects discussed."
+    }
+}
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "2",
+    "input": {
+        "modal": {
+            "video1": "video/vid_0002_01.mp4",
+            "audio1": "audio/aud_0002_01.mp3"
+        },
+        "content": "Considering the current trends in the entertainment industry, analyze what visual and auditory elements are effective in engaging audiences. Your analysis should interleave insights from the <video1> and <audio1> as part of your response and must include at least one visual document in the form of an illustration to further support your conclusions."
+    },
+    "output": {
+        "modal": {
+            "document1": "document/doc_0002_01.png"
+        },
+        "content": "In the entertainment industry, visual elements such as the dynamic camera angles and vibrant colors observed in the provided video greatly enhance audience engagement by creating an immersive experience. Auditory components, like the impactful background score in the audio, help evoke emotions corresponding to the visual narrative. For illustration, consider the detailed representation in <document1>, which exemplifies how visual appeal and thematic consistency contribute to sustained viewer interest. Thus, the synergy between strong visual and sound design is crucial, as demonstrated by these multimodal elements."
+    }
+}
+{
+    "domain": "general_domain",
+    "subdomain": "entertainment",
+    "id": "3",
+    "input": {
+        "modal": {
+            "video1": "video/vid_0003_01.mp4",
+            "audio1": "audio/aud_0003_01.mp3"
+        },
+        "content": "How does the <video1> content complement the story narrated in the <audio1> file, and which document would help illustrate the themes discussed in this audiovisual experience?"
+    },
+    "output": {
+        "modal": {
+            "document1": "document/doc_0003_01.png"
+        },
+        "content": "In the video, the visuals add a dynamic layer to the audio narration by providing concrete imagery related to the discussed entertainment topic. The document further supports this by offering a visual summary or highlights that are particularly relevant, as depicted in <document1>, showcasing key elements with vivid illustrations that enhance understanding."
+    }
+}

@@ -1,0 +1,4319 @@
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "881",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0881_01.png"
+    },
+    "content": "In the provided table, which reference suggests that sacral nerve stimulation (SNS) is superior to PTNS for fecal incontinence, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0881_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Simillis et al 2018\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "882",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0882_01.png"
+    },
+    "content": "In <document1>, how does the probability of detecting differential expression change when the number of replicates per group increases from 3 to 10 for an effect size of 1.5?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0882_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"It increases from 43% to 91%\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "883",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0883_01.png"
+    },
+    "content": "In the context of <document1>, what percentage of 2.0mm baps were united at 5 weeks?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0883_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"17%\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "884",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0884_01.png"
+    },
+    "content": "In the chart, at 6 months, how many antacids per day were used to control regurgitation according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0884_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"0.1\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "885",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0885_01.png"
+    },
+    "content": "In <document1>, where does connective tissue show the most vascularization in Group L?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0885_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Pm\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "886",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0886_01.png"
+    },
+    "content": "In the chart presented in <document1>, at which gap length is there the lowest mean TV per slice?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0886_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"2.0 mm gap\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "887",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0887_01.png"
+    },
+    "content": "In the table, at which residue position is the cysteine liganded for the one protein where its cysteine is not in the active site, as indicated in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0887_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"528\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "888",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0888_01.png"
+    },
+    "content": "In the chart, at which time point is the AUC value for the NIHSS highest according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0888_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"72 h\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "889",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0889_01.png"
+    },
+    "content": "In the dataset, at which wavelength does mFAP2-DFHBI absorb according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0889_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"476\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "890",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0890_01.png"
+    },
+    "content": "Based on cost per test values in <document1>, how many samples should be used to make this experiment most cost-effective?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0890_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"200\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "891",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0891_01.png"
+    },
+    "content": "In <document1>, which combination of restriction enzymes is most likely to have breaks repaired using a template rather than by NHEJ?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0891_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"KpnI+SacI\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "892",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0892_01.png"
+    },
+    "content": "In the dataset provided, excluding cloning techniques, what was the average number of colonies per transfection in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0892_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"25\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "893",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0893_01.png"
+    },
+    "content": "In <document1>, how many parameters show a viral vector outperforming both In utero and iontoporation gene delivery?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0893_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "894",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0894_01.png"
+    },
+    "content": "In the 'Rhyme judgment, contrast 2' task from <document1>, how many clusters have a FSL OLS p-value less than 0.0001?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0894_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 6."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "895",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0895_01.png"
+    },
+    "content": "In the >1:20 NAb titer group, which virus from which region shows the lowest AAV1+/AAV1- seroreactivity linkage ratio according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0895_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"AAV7 from the United States\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "896",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0896_01.png"
+    },
+    "content": "In the context of <document1>, which enzyme shows an increased rate of deamination for the substrate Bdf200?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0896_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"hADAR2-D\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "897",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0897_01.png"
+    },
+    "content": "In the chart, for which interaction partner is the mean of CCSD(T)/CBS, OPLS3e, and OPLS4 closest to 0 in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0897_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"water hydrogen\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "898",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0898_01.png"
+    },
+    "content": "In the chart, for which Design ID is there not a CD spectrum according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0898_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"BB4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "899",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0899_01.png"
+    },
+    "content": "In the dataset provided, for which enzyme is the dsRNA Km value greater than that of the ssRNA kM value in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0899_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"RET2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "900",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0900_01.png"
+    },
+    "content": "In the chart, for which protein did the new preferences indicate a significant change from 'None' at the 3' position, as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0900_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"hADAR1\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "901",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0901_01.png"
+    },
+    "content": "From the results shown in the above table, which disease group is most likely to be correctly differentiated from AD in the bioFINDER-2 Cohort, as indicated in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0901_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Aβ-negative controls\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "902",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0902_01.png"
+    },
+    "content": "In <document1>, how does the presence of serum affect the amount of CAT protein expressed from pCIS3CAT loaded F-virosomes?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0902_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Decreases expression\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "903",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0903_01.png"
+    },
+    "content": "In the context of <document1>, how does the rate of change for swelling ratio differ at high and low %T?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0903_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"The rate of change is smaller for high %T and larger for low %T\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "904",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0904_01.png"
+    },
+    "content": "In the chart, <document1> how many Drosophila samples were evaluated?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0904_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"761\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "905",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0905_01.png"
+    },
+    "content": "In <document1>, how many PS cell types are known to have developmental potential for 4n complementation?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0905_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "906",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0906_01.png"
+    },
+    "content": "In the chart, how many Template:dNTP pairs have a K_m value reported under 100 micromolar (μM) as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0906_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"11\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "907",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0907_01.png"
+    },
+    "content": "In <document1>, how many animals were included in the table from publications before 2010?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0907_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"87\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "908",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0908_01.png"
+    },
+    "content": "In the chart provided, <document1> how many cysteines are located in the active site?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0908_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"11\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "909",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0909_01.png"
+    },
+    "content": "In the table shown in <document1>, how many databases of protein-protein interactions are listed?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0909_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"7\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "910",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0910_01.png"
+    },
+    "content": "In the chart, how many dendritic branches does Layer VI have according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0910_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"23\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "911",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0911_01.png"
+    },
+    "content": "In the chart provided in <document1>, how many different primer pairs are listed?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0911_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"15\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "912",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0912_01.png"
+    },
+    "content": "In the chart, how many diseases undergoing clinical trials using AAV gene transfer as a therapeutic modality are listed as having gone through Phase I/II, according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0912_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"8\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "913",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0913_01.png"
+    },
+    "content": "In the chart, how many fluorescent proteins from Aequorea Victoria can be excited by the same wavelength according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0913_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "914",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0914_01.png"
+    },
+    "content": "In <document1>, how many fold higher is the affinity of the aptamer with the highest affinity compared to the second highest affinity?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0914_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1.3-fold\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "915",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0915_01.png"
+    },
+    "content": "In the chart, <document1> how many gene homologs have a query cover less than 100%?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0915_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"3\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "916",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0916_01.png"
+    },
+    "content": "In <document1>, how many genes that are enzymes or enzyme inhibitors from animal, plant, or viral origins were expressed using magnifection?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0916_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"6\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "917",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0917_01.png"
+    },
+    "content": "In the context of <document1>, how many models use a non-spiking representation mode?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0917_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"3\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "918",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0918_01.png"
+    },
+    "content": "In the table provided, how many molecules target liver proteins according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0918_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"3\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "919",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0919_01.png"
+    },
+    "content": "In <document1>, how many mutation oligonucleotides were used in this study?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0919_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"17\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "920",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0920_01.png"
+    },
+    "content": "In the chart, how many of the exemplary phosphorothioate antisense oligonucleotides share the same chemistry as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0920_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"7\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "921",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0921_01.png"
+    },
+    "content": "In the context of the test, how many pDEST-based plasmids were used according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0921_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"10\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "922",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0922_01.png"
+    },
+    "content": "In the chart, how many patients from the second enrolment reported backpain and nausea in total, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0922_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "923",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0923_01.png"
+    },
+    "content": "In the table shown in <document1>, how many patients were listed from all publications present?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0923_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"273\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "924",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0924_01.png"
+    },
+    "content": "In the chart presented in <document1>, how many plasma factors had a d-score lower than 1.0?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0924_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"9\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "925",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0925_01.png"
+    },
+    "content": "In the context of the chart, <document1> how many plasmids are used in this study?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0925_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"25\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "926",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0926_01.png"
+    },
+    "content": "In <document1>, how many rabbit and mouse monoclonal antibodies are used in this study?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0926_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"15\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "927",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0927_01.png"
+    },
+    "content": "In the chart, <document1> how many samples had binary CS values?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0927_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"12\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "928",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0928_01.png"
+    },
+    "content": "In <document1>, how many sequencing data sets were deposited?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0928_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "929",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0929_01.png"
+    },
+    "content": "In the chart, how many square millimeters is the capsule with a view angle of 156 degrees <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0929_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 264."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "930",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0930_01.png"
+    },
+    "content": "In the chart provided in <document1>, how many studies included more than 25 subjects?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0930_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"6\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "931",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0931_01.png"
+    },
+    "content": "In the chart, <document1> how many entries use an unpaired t-test?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0931_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"7\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "932",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0932_01.png"
+    },
+    "content": "In the chart provided, how many total subjects had an fMRI performed according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0932_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"499\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "933",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0933_01.png"
+    },
+    "content": "In the dataset, how many water atoms are present in B2(1-73)-5-BrU-RNA, P4(1)22 according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0933_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1,074\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "934",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0934_01.png"
+    },
+    "content": "In the table provided in <document1>, how many women participated in the studies listed?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0934_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"100\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "935",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0935_01.png"
+    },
+    "content": "In the chart provided, <document1> how many women were in the treatment group?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0935_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"5\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "936",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0936_01.png"
+    },
+    "content": "In <document1>, how much do small businesses save when applying for device reclassification compared to the standard fee?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0936_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"$1764\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "937",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0937_01.png"
+    },
+    "content": "In the context of transducing a reporter gene in a Human Cardiac Myocyte cell culture, which AAVs are suitable for efficient transduction according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0937_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"AAV6 and AAV9\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "938",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0938_01.png"
+    },
+    "content": "Based on the data showing improved disease outcomes in a dose-dependent manner against placebo groups over 3-4 months, and minimal side effects for at least 6 months, what Phase is the clinical trial most likely in, as indicated in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0938_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Phase III\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "939",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0939_01.png"
+    },
+    "content": "In the context of a power outage affecting -80C freezers where virus titer stocks are stored, what corrective action is recommended for failed transduction attempts in chicks? Refer to <document1> for guidance."
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0939_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Re-titer virus\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "940",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0940_01.png"
+    },
+    "content": "In planning a 3-day time-lapse experiment on live cell cultures, which method would be most suitable for observing chromosomal dynamics in response to stimuli every 2 hours using fluorescent microscopy, according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0940_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Live Cas9 Imaging\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "941",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0941_01.png"
+    },
+    "content": "In planning a study for a Southeast Asian patient population with suspected gastroparesis, which test is most suitable for measuring gastric emptying according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0941_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Stable isotope breath test\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "942",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0942_01.png"
+    },
+    "content": "In the context of performing a triple transfection with pSIRA3, pCM2, and pSW23, which antibiotics should be used for selecting successfully transfected cells according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0942_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is Ampicillin, Kanamycin, Chloramphenicol."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "943",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0943_01.png"
+    },
+    "content": "In <document1>, what technique is best to test if a candidate drug is eliciting transcription of a target gene with at least 3 isoforms in neuron subpopulations across different areas of fixed mouse spinal cord sections imaged by fluorescent microscopy?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0943_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"ISS\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "944",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0944_01.png"
+    },
+    "content": "In how many countries was the percentage of samples, where anti-AAV1 titers were > 1:20 and anti-AAV2 NAb titers were < 1:20, less than 15% in the data shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0944_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 6."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "945",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0945_01.png"
+    },
+    "content": "In which Behavioural Assays did the manifest Male Q175/B6 mice show increased performance according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0945_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Open Field, Accelerating Rotarod, Water T-Maze\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "946",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0946_01.png"
+    },
+    "content": "In which year did the accuracy scores for all tested insecticides in Ethiopia first appear in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0946_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"2015\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "947",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0947_01.png"
+    },
+    "content": "In the chart presented in <document1>, which model is identified as the relatively best-performing across the metrics shown?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0947_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"RF\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "948",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0948_01.png"
+    },
+    "content": "In <document1>, how many consecutive measurement days from Baseline was the decreasing trend on mean VAS back pain score maintained?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0948_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "949",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0949_01.png"
+    },
+    "content": "In the chart, what DNA sequence corresponds to the Transportan peptide once translated, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0949_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"GGATGGACCCTAAACAGCGCGGGATATCTGTTGGGAAAGATTAATCTAAAGGCGTTAGCGGCCCTAGCGAAAAAGATATTA\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "950",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0950_01.png"
+    },
+    "content": "In the chart, what cell type is traced to iridophores according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0950_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Neural crest\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "951",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0951_01.png"
+    },
+    "content": "In the context of the LIDA model, what cognitive process is linked to the 'Behavior net' module as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0951_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Action selection\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "952",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0952_01.png"
+    },
+    "content": "What completeness is reported in the table in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0952_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"97.2%\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "953",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0953_01.png"
+    },
+    "content": "In the Flow Cytometry experiment, what compound is added to the buffer containing cells before analysing the cells, as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0953_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Annexin\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "954",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0954_01.png"
+    },
+    "content": "In the chart provided, <document1> which compound demonstrates the highest potency by having the lowest IC50 value?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0954_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"12a\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "955",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0955_01.png"
+    },
+    "content": "In the Cryo-EM study of AAV2-PKD1-2, what data collection parameter has a value of 1.049Å in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0955_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Pixel size\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "956",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0956_01.png"
+    },
+    "content": "In the chart, what dosage of MTX is recommended for a 5 year old child according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0956_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"12\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "957",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0957_01.png"
+    },
+    "content": "In <document1>, what is a possible reason for punctate artifacts that appear across multiple wells?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0957_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Washing reagents contaminated with fibers\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "958",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0958_01.png"
+    },
+    "content": "In the context of the 5'-sgMajSat sequence, what is located at the 5' end according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0958_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"DY547\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "959",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0959_01.png"
+    },
+    "content": "In <document1>, what is the MAP of the group with an equally balanced sex ratio?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0959_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"69+/-7\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "960",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0960_01.png"
+    },
+    "content": "What is the RRID of the Pan-Keratin antibody from Roche used in this <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0960_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"AB_2941938\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "961",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0961_01.png"
+    },
+    "content": "In the chart, what is the assignment for the triplet with an IDI - IEI value of 740.5 MHz in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0961_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"PSII core antenna/PSII outer antenna\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "962",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0962_01.png"
+    },
+    "content": "What is the average age of female patients given intrathecal trastuzamab in the dataset shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0962_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"44.8\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "963",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0963_01.png"
+    },
+    "content": "In the chart, what is the average difference between observed results and theoretical results according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0963_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"0.30\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "964",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0964_01.png"
+    },
+    "content": "What is the average difference in dimer interaction energy when comparing acetate-water and guanidine-water in the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0964_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1.8\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "965",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0965_01.png"
+    },
+    "content": "What is the average resolution of the highest resolution shell for Poln HX:5FdUTP (8SKI) in the <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0965_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 2.18 angstrom."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "966",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0966_01.png"
+    },
+    "content": "What is the average χ1 value across all contract combinations in the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0966_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"102.25\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "967",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0967_01.png"
+    },
+    "content": "What is the difference between the average R squared value of prospective projects and all projects in the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0967_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"0.09\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "968",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0968_01.png"
+    },
+    "content": "What is the difference in ROC_AUC values of EquiPNAS and GraphBind methods in predicting protein-RNA binding using the Test_117 dataset in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0968_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"0.093\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "969",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0969_01.png"
+    },
+    "content": "What is the difference in the halftime for compounds 18 and 19 in Beagle dogs according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0969_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 0.140."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "970",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0970_01.png"
+    },
+    "content": "In the chart, what is the emission range for the dye that targets mitochondria, as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0970_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"672-712 nm\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "971",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0971_01.png"
+    },
+    "content": "In the context of the chart, what is the initial concentration formula for the fuel (XF_i) species as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0971_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"2 Σ (from j=1 to m) of (w_ij)×\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "972",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0972_01.png"
+    },
+    "content": "What is the margin of error for the concentration of copper of Control 1 in OVCAR5 in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0972_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1uM\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "973",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0973_01.png"
+    },
+    "content": "What is the mean callus area from group E in the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0973_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 156."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "974",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0974_01.png"
+    },
+    "content": "What is the mean error rate of ligation of mismatched oligonucleotides to a template with 71% G-C content in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0974_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 0.797."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "975",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0975_01.png"
+    },
+    "content": "In <document1>, what is the median true percentage edited when the corresponding standard deviation is higher than 4?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0975_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 60."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "976",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0976_01.png"
+    },
+    "content": "In the context of <document1>, what is the most common AAVR amino acid species likely forming van der Waals interactions with AAV2?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0976_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Aspartate\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "977",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0977_01.png"
+    },
+    "content": "What is the observed effect from SNS on S1 in rats according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0977_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"No effect\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "978",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0978_01.png"
+    },
+    "content": "What is the pH value of the HEPES buffer used in the fluoroimmuno-like assay according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0978_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 7.5."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "979",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0979_01.png"
+    },
+    "content": "In <document1>, what is the phone number for general info for emergency during normal business hours?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0979_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"301-796-3400 or 855-543-3784\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "980",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0980_01.png"
+    },
+    "content": "In <document1>, what is the range of batch sizes (S_Bx,y,z) used in Retina CNN Selection Iteration 3?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0980_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is (4,2-100,50)."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "981",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0981_01.png"
+    },
+    "content": "What is the range of protein concentration reported in the data presented in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0981_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"184-504 ug/ml\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "982",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0982_01.png"
+    },
+    "content": "In the context of retina segmentations, what is the range of θ_mg values tested as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0982_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is {0.2, 0.21, ..., 0.5}."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "983",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0983_01.png"
+    },
+    "content": "In the context of <document1>, what is the ratio of 32P-labeled DNA delivered to the amount of CAT protein expressed in pg/mg of cell protein without asialofetuin in HepG2 cells?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0983_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1818 pg/mL of cell protein\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "984",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0984_01.png"
+    },
+    "content": "What is the ratio of upregulated crotonylated protein sites relative to upregulated succinylated protein sites in the data presented in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0984_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"14.67\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "985",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0985_01.png"
+    },
+    "content": "What is the relative concentration (q) of DNA for the APP-Luc-WPRE vector compared to the stock of the vector lacking posttranscriptional regulatory elements in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0985_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1.9\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "986",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0986_01.png"
+    },
+    "content": "What is the reported Q value for adipogenesis in the chart shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0986_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"0.002\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "987",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0987_01.png"
+    },
+    "content": "What is the reverse primer sequence used for ITPA in the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0987_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"GTGAATCCTAAGGGCAAGAGAA\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "988",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0988_01.png"
+    },
+    "content": "In the chart, what is the row label of the highest green-highlighted cell for the three-year symptom clusters in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0988_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Poor weight gain\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "989",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0989_01.png"
+    },
+    "content": "What is the significance of the constant term in the regression model as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0989_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"0.019\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "990",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0990_01.png"
+    },
+    "content": "What is the study's domain according to the chart in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0990_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Oncology\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "991",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0991_01.png"
+    },
+    "content": "What is the target of the only ssDNA aptamer in the chart shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0991_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"tau381\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "992",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0992_01.png"
+    },
+    "content": "What is the total incubation time with all the combined steps of the protocol in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0992_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"120 min\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "993",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0993_01.png"
+    },
+    "content": "In <document1>, what vector is used in the clinical trial NCT03173521 for treating Mucopolysaccharidosis Type VI?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0993_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"AAV2/8.TBG.hARSB\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "994",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0994_01.png"
+    },
+    "content": "In the chart, which lab is associated with the pGem4z-Tom40 plasmid <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0994_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Wiederman\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "995",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0995_01.png"
+    },
+    "content": "What metadata information was obtained from DNAproDB in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0995_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"DNA, Protein, Structure, Interactions\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "996",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0996_01.png"
+    },
+    "content": "What percentage of clones changed in NSCLC 9 after Bst MDA according to the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0996_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"41.7%\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "997",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0997_01.png"
+    },
+    "content": "In the chart, what percentage of patients reported being not satisfied with PPI therapy according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0997_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is 71."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "998",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0998_01.png"
+    },
+    "content": "In the context of the chart, what ratio do the majority of reported sensors require according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0998_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1:5\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "999",
+  "input": {
+    "modal": {
+      "document1": "document/doc_0999_01.png"
+    },
+    "content": "In <document1>, what surface cues does bus-2 contribute to the mate-preference of virgin young adult hermaphroditic worms?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_0999_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Depositing glyproteins\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1000",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1000_01.png"
+    },
+    "content": "In the chart, what type of protein results in the highest yield by both CuAAC with 1 and CuAAC with 3 according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1000_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Membrane\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1001",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1001_01.png"
+    },
+    "content": "Who was the author of the systematic review that explored constipation and concluded there was not enough evidence to suggest that SNS had any effect on symptoms, as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1001_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Thaha et al.\""
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1002",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1002_01.png"
+    },
+    "content": "What was the median value of CSF tau in pg/mL at admission according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1002_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"434\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1003",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1003_01.png"
+    },
+    "content": "In the dataset presented in <document1>, what was the most common antibody target?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1003_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"None\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1004",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1004_01.png"
+    },
+    "content": "In the chart, what was the most common side effect for both the placebo and treatment group as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1004_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Post-lumbar puncture syndrome for the treatment group and back pain for the placebo group.\""
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1005",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1005_01.png"
+    },
+    "content": "In the context of the chart, <document1> what was the most common target?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1005_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Dopamine\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1006",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1006_01.png"
+    },
+    "content": "What was the outcome of treatment with onasemnogene abeparvovec across the three patients in the <document1> chart?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1006_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"All three recovered, but one patient had persistent hypertension.\""
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1007",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1007_01.png"
+    },
+    "content": "In the context of assembling 4 fragments, how many transformants were recorded per ug of vector DNA according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1007_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"9x10^6\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1008",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1008_01.png"
+    },
+    "content": "In the context of <document1>, where did the authors source their Poly-D-Lysine?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1008_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"ThermoFisher\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1009",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1009_01.png"
+    },
+    "content": "In the given table, which %T shows the highest partition coefficient according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1009_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"25\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1010",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1010_01.png"
+    },
+    "content": "In the chart, which 2 genes show decreased expression in TIMP2KO conditions at the lowest significance score according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1010_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"BMP10 and MMP2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1011",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1011_01.png"
+    },
+    "content": "In the chart provided, which AAV type elicits the highest concentration of NAb from infected humans according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1011_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"AAVrh32.33\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1012",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1012_01.png"
+    },
+    "content": "According to the table in <document1>, which CSRR showed the highest gain?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1012_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"CSRR1\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1013",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1013_01.png"
+    },
+    "content": "In the chart provided, <document1> which IT injection pattern was most common?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1013_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"IT injection monthly for 6 months\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1014",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1014_01.png"
+    },
+    "content": "In the chart, which amino acid sequence at the specified position has the highest glycosylation potential according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1014_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"NGTL\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1015",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1015_01.png"
+    },
+    "content": "In the dataset, which analysis method led to the identification of 25 B. subtilis family reads in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1015_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"None\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1016",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1016_01.png"
+    },
+    "content": "In the chart, which analytes show a positive, non-significant correlation with CSF tau according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1016_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"mRS 3 months, Infarct Volume\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1017",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1017_01.png"
+    },
+    "content": "In the chart provided in <document1>, which animal species has the highest half life for MRTX849 at a dose of 3 mg/kg?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1017_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"dog\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1018",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1018_01.png"
+    },
+    "content": "In the reviewed literature, which antenna topology was most common according to the data presented in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1018_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Spiral\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1019",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1019_01.png"
+    },
+    "content": "In the chart provided, <document1> which antibody requires the greatest dilution for use?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1019_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Phospho-H3\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1020",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1020_01.png"
+    },
+    "content": "In the dataset provided, which aptamer has the lowest Kd value for its target in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1020_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"60-3\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1021",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1021_01.png"
+    },
+    "content": "In <document1>, which area in Patient 1 (P1) showed the lowest Z-score for blink-related artifacts?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1021_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Left superior frontal gyrus\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1022",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1022_01.png"
+    },
+    "content": "In the chart, which array exhibited the highest mean peak-to-peak amplitude (Vpp) for signal according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1022_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Array 2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1023",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1023_01.png"
+    },
+    "content": "In the context of FPMA, which brain structure shows the largest differences between computed coordinates using the transform matrix and real coordinates, as noted in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1023_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is γ-ε."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1024",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1024_01.png"
+    },
+    "content": "In the chart, which category produced the least certainty in odds ratio according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1024_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Mother smoking 15 cigarettes per day vs none with a 2.5 to 5 year exposure\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1025",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1025_01.png"
+    },
+    "content": "In the OPLS3E configuration, which chemical group has the most negative interaction energy (kcal/mol) as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1025_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"ethyl-dimethylammonium\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1026",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1026_01.png"
+    },
+    "content": "In the chart, which chromosome had the highest edited position by percentage according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1026_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Chromosome 1.\""
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1027",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1027_01.png"
+    },
+    "content": "In the chart, which citation reported the lowest antenna size according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1027_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Huang et al. (2007)\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1028",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1028_01.png"
+    },
+    "content": "In the dataset, which citation reported the smallest antenna size according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1028_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Faisal and Yoo.: 2018\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1029",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1029_01.png"
+    },
+    "content": "In the context of molecular weights, which code has the lowest value according to the data in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1029_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"CP1\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1030",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1030_01.png"
+    },
+    "content": "In <document1>, which combination of PRD-Binding Factors results in different transcriptional activity between WT and Mutant enhancers?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1030_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"ATF2+c-JUN+IRF1+p50+p65+HMGI\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1031",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1031_01.png"
+    },
+    "content": "In the chart, which compound is shown to target many different targets according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1031_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Flavones\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1032",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1032_01.png"
+    },
+    "content": "In the context of the chart, <document1> which compound contains a trifluoromethyl group in its R chain?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1032_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"5\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1033",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1033_01.png"
+    },
+    "content": "In the context of systemic clearance, which compound shows a higher value when administered intravenously in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1033_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"18\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1034",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1034_01.png"
+    },
+    "content": "In the chart provided, <document1> which condition resulted in the worst lower-bound outcome for survival time?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1034_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Drug induced liver failure in individuals aged 32-55.\""
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1035",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1035_01.png"
+    },
+    "content": "In the chart provided, <document1> which country is shown to have the lowest average autonomy score?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1035_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"France\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1036",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1036_01.png"
+    },
+    "content": "In the chart, which country shows the largest disparity in its between vs within university quality, as noted in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1036_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Israel\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1037",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1037_01.png"
+    },
+    "content": "According to the chart in <document1>, which country initiated its NRES most recently across all four classifications: Hicks, Auranen, Stephan, and IPTS?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1037_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Norway\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1038",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1038_01.png"
+    },
+    "content": "In the chart, which dose demonstrated the highest average area under the curve according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1038_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"3.00 mg\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1039",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1039_01.png"
+    },
+    "content": "In the chart provided in <document1>, which drug is associated with the side effect of headaches?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1039_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Prucalopride\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1040",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1040_01.png"
+    },
+    "content": "In the chart, which error threshold has the smallest difference between the observed percentage and the expected percentage according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1040_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is % < 3.0."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1041",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1041_01.png"
+    },
+    "content": "In the chart, which experiment is associated with the primer sequence CGCGGGCTATATGCGAACCG for Primer 1, as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1041_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"1001-gene\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1042",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1042_01.png"
+    },
+    "content": "In the chart, which factor is not listed under the category 'Agricultural Activities'? <document1>"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1042_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Apple farming using all techniques\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1043",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1043_01.png"
+    },
+    "content": "In the chart, which force field version demonstrated the most consistent RMSE across all systems in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1043_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"OPLS3\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1044",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1044_01.png"
+    },
+    "content": "In the chart, which formulation shows the lowest polydispersity index (PDI) at a composition of 49:49:2, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1044_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"DDA\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1045",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1045_01.png"
+    },
+    "content": "Which forward and reverse primers from the table should I use if I want to amplify the sequence CGAATGCAGCATCTCCTTACCTAGCATTTGATGGACGATAGATGATGGCAGTTCAGTGGCATGGATGATCCAGTATGACGTACGTAGATGCAGTGATACTGCTATTCTGAAAGTCTTTTTCTTC in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1045_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is GAPD Forward Primer, SKP2 Reverse Primer."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1046",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1046_01.png"
+    },
+    "content": "Which oligo from the provided list in <document1> could serve as the reverse primer for amplifying the DNA sequence TATGCAGTAGATGATGGATGTGCCCACACATTATTGCGTGATAGTGTAGGTGCATGATGACGTGATCTAAATCGATCGATCGATCGATTGCTAGGAGCTAGCTABGCTAGBGGCGCGCGATATATGGTATTTGGTTTACCCT?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1046_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Trigger X\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1047",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1047_01.png"
+    },
+    "content": "In the dataset, which gene network is reported in both astrocyte and non-astrocytes according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1047_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Cellular assembly\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1048",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1048_01.png"
+    },
+    "content": "In the context of tools for measuring cell-cell communication, which graph or network-based tool is available in R according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1048_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"NicheNet\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1049",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1049_01.png"
+    },
+    "content": "In the chart, which group had the highest interfragmentary movement in week 4 according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1049_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"D\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1050",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1050_01.png"
+    },
+    "content": "In <document1>, which imaging technique offers the most superior Axial resolution while maintaining the lowest imaging speed?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1050_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Serial block-face electron microscopy\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1051",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1051_01.png"
+    },
+    "content": "In the chart provided in <document1>, which insecticide class does not have an eigenvalue listed?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1051_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Organochlorine\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1052",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1052_01.png"
+    },
+    "content": "In the context of the chart, which libraries were not cloned using chemical competent cells according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1052_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Library 4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1053",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1053_01.png"
+    },
+    "content": "In the chart provided, which material has the least negative heat of formation (ΔH) value according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1053_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"TiO2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1054",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1054_01.png"
+    },
+    "content": "In the chart, which metabolite shows a positive z-score in ADHD and a negative z-score in Schizophrenia, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1054_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"malate\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1055",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1055_01.png"
+    },
+    "content": "In the dataset, which metabolite undergoes both glucuronidation and GSH conjugation as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1055_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"M2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1056",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1056_01.png"
+    },
+    "content": "In the chart, which method is reported as poor step coverage according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1056_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"PVD\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1057",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1057_01.png"
+    },
+    "content": "In the η=1.333 condition, which microscope has the smallest field of view according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1057_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Both ctASLM2 and LSFM2 have the same lowest value for field of view at this condition\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1058",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1058_01.png"
+    },
+    "content": "In the context of the Protein-DNA dataset Test_129, which model achieved the highest ROC-AUC score according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1058_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"EquiPNAS (esm2_t48_15B_UR50D)\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1059",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1059_01.png"
+    },
+    "content": "In the context of the chart, which model had the lowest RMS error for the hydration free energy (HFE) according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1059_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"OPLS4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1060",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1060_01.png"
+    },
+    "content": "In the context of the chart, which model has a higher adjusted R-squared value according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1060_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Model one\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1061",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1061_01.png"
+    },
+    "content": "In the context of aryl sulfur vdW parameters, which model has a lower ε value according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1061_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"OPLS4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1062",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1062_01.png"
+    },
+    "content": "In the chart, which model shows the highest difference in percent of target adenosine modified between hADAR1 and hADAR2-D <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1062_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Model 4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1063",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1063_01.png"
+    },
+    "content": "In the chart, which model shows the lowest MSE when chi1 = 300 according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1063_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"OPLS4\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1064",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1064_01.png"
+    },
+    "content": "In the chart, which mutant combination shows the second smallest highest Kcat/KmLPETG among those listed in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1064_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"D124G\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1065",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1065_01.png"
+    },
+    "content": "In the context of <document1>, which networks have edited outputs from other networks as their inputs?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1065_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"CANN, NSM\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1066",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1066_01.png"
+    },
+    "content": "In the context of <document1>, which neural correlate is linked to 'PAM-visual object recognition' within the Slipnet object nodes module?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1066_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Inferotemporal cortex (IT), perirhinal cortex\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1067",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1067_01.png"
+    },
+    "content": "In <document1>, which inhibitor can inhibit clathrin-mediated endocytosis without affecting cellular cytoskeletal or membrane composition?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1067_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Potassium Depletion, Cytosolic acidification, Chlorpromazine, Dynasore\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1068",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1068_01.png"
+    },
+    "content": "In the context of the GERD study, which condition listed in the chart would exclude a person from participating, according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1068_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Any dysplasia\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1069",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1069_01.png"
+    },
+    "content": "In the context of <document1>, identify which item is not listed under 'Data mining' as a challenge related to handling adverse event data."
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1069_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Data safety, ownership and transparency\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1070",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1070_01.png"
+    },
+    "content": "Which dataset in <document1> would be suitable for exploring transcription levels of certain genes across cell types in the adult mouse brain?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1070_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"SMART-seq Mouse VMH Neurons, 10x Mouse VMH Neurons, Mouse Primary Motor Cortex (MOp)\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1071",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1071_01.png"
+    },
+    "content": "In <document1>, which DNA assembly physical standards do not require PCR and have more than 1 forbidden restriction site?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1071_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"BioBrick/BgIBrick, MoClo, GoldenBraid 2.0, Binder et al., Torella et al.\""
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1072",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1072_01.png"
+    },
+    "content": "In the chart, which oligo is labeled at the 3' end with Lumi4 Tb³⁺ as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1072_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"TGT B\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1073",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1073_01.png"
+    },
+    "content": "In <document1>, which oligos include GCGGTCCAGTA in their sequence?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1073_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"UCYN-A1-732 competitor, UCYN—A2-732 competitor\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1074",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1074_01.png"
+    },
+    "content": "In the dataset provided, which organism's entire genome is covered in probes according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1074_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"C. elegans\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1075",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1075_01.png"
+    },
+    "content": "In the chart, which patient EEG showed the highest ongoing brain activity to blink amplitude potential from measurements in both their motor and prefrontal cortices <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1075_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"P2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1076",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1076_01.png"
+    },
+    "content": "In the chart, which patient had the highest ratio of SNR EEG to SNR ECoG in the prefrontal cortical region according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1076_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"P2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1077",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1077_01.png"
+    },
+    "content": "In the chart provided, <document1> which patient has the highest recorded Z-score in the left superior frontal gyrus?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1077_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"P1\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1078",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1078_01.png"
+    },
+    "content": "In the chart, which percentage of T has the highest average standard deviation according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1078_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"10%\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1079",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1079_01.png"
+    },
+    "content": "In the chart, which plasmid with a 16 base pair spacer length has the highest activity according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1079_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"pKK09-6\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1080",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1080_01.png"
+    },
+    "content": "In the chart, which platform utilizes DRAM for its memory according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1080_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Both Eyeriss and ESE\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1081",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1081_01.png"
+    },
+    "content": "In the dataset presented in <document1>, which polypeptide shows the largest observed mass (Mobs) difference from its calculated mass (Mcalc) in millidaltons?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1081_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"hL243-Fd-DDD2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1082",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1082_01.png"
+    },
+    "content": "In the dataset presented, which position had the greatest G per G+A as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1082_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"ChrII: 681,346\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1083",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1083_01.png"
+    },
+    "content": "In the chart, which position displayed the highest purine content according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1083_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"-1 and -2 had the same, lowest content\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1084",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1084_01.png"
+    },
+    "content": "In the context of Anopheles arabiensis and the insecticide class pyrethroid, which potential IR driver had the highest chi-squared value according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1084_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Land use land cover\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1085",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1085_01.png"
+    },
+    "content": "Which primer pair from the above table in <document1> should I use to amplify the sequence GGTAGGATGCTCGAATGCTATCGATTTGACGATGATTTCAGAATGAATGCGATCATGAGGTGTGCGGTTGGGCAATATTGATTTGGGCTGCCGACACACATAACC?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1085_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is ODN11, ODN15."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1086",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1086_01.png"
+    },
+    "content": "In the chart, which probe pairs are most likely to interact at a distance of 1 - 20 Mb according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1086_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"SE4/SE5\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1087",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1087_01.png"
+    },
+    "content": "In <document1>, which protein complex does not use the same buffer conditions in both the ProteoPlex optimized buffer and the crystallization buffer reported in the literature?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1087_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Human p97(VCP)\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1088",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1088_01.png"
+    },
+    "content": "In the table, which protein is not expressed and does not have an IxxDxxR predicted active site according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1088_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"All proteins are either expressed or have a lxxDxxR predicted active site\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1089",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1089_01.png"
+    },
+    "content": "In the context of the chart, <document1> which protein is detected in the major editosome but not in the minor editosome?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1089_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"RET2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1090",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1090_01.png"
+    },
+    "content": "In the context of protein localization, which proteins are found in dendrites according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1090_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Tau-DTE\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1091",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1091_01.png"
+    },
+    "content": "In the correlation between Total Activity and Specific Activity, which purification step is the outlier according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1091_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Fraction 4-11 from IEC\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1092",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1092_01.png"
+    },
+    "content": "In the chart provided in <document1>, which region has the lowest number of edits?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1092_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Thymus\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1093",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1093_01.png"
+    },
+    "content": "In the chart, which reporter proteins are present in the constructs sourced from Dr. Ferkey <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1093_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"mCherry, gfp\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1094",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1094_01.png"
+    },
+    "content": "In the chart, which residue on the virus is furthest from its binding partner on the AAVR construct according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1094_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"T450\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1095",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1095_01.png"
+    },
+    "content": "In the dataset shown in <document1>, which sample didn't have a decoder architecture of 1024x3?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1095_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"M. pneumoniae All\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1096",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1096_01.png"
+    },
+    "content": "In the dataset shown in <document1>, which sequence has the lowest recorded affinity?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1096_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"ATATA\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1097",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1097_01.png"
+    },
+    "content": "In <document1>, which sequence can be amplified using the primer pair TAATACGACTCACTATA and CCAGCATAGCTCTTAAACAGGCTTACTC (both in 5' - 3' orientation)?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1097_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"sgMUC4_09\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1098",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1098_01.png"
+    },
+    "content": "In the context of analyzing cortical thickness changes in autism spectrum disorder (ASD) pathology, which significance test method is applied according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1098_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Cluster-wise correction\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1099",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1099_01.png"
+    },
+    "content": "In the chart provided, <document1> which single mutation has the greatest effect on pI?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1099_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"H120E\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1100",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1100_01.png"
+    },
+    "content": "In the table, which strain has the highest identity percentage as mentioned in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1100_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Bacillus subtilis subsp. spizizenii strain NRS 231\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1101",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1101_01.png"
+    },
+    "content": "In the chart, which structure has the highest ALS (mm²) according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1101_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Hierarchical tree lattice\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1102",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1102_01.png"
+    },
+    "content": "In <document1>, which study used stim sessions for 20 minutes, three times a week for four weeks?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1102_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Yang et al 2017\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1103",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1103_01.png"
+    },
+    "content": "In the chart, which study type is experimenter-administered according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1103_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Both CPP and psychomotor sensitization\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1104",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1104_01.png"
+    },
+    "content": "In <document1>, which symptom is linked with the highest p-value for an ADHD diagnosis at 5 years?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1104_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"general irritation\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1105",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1105_01.png"
+    },
+    "content": "In the context of <document1>, which technology would you choose if size was an issue?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1105_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Zigbee\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1106",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1106_01.png"
+    },
+    "content": "In the chart, which tests were conducted on the largest age range across all groups as shown in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1106_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Open Field, Water T-Maze\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1107",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1107_01.png"
+    },
+    "content": "In <document1>, which tissue exhibited the highest percentage knockdown of MALAT1 mRNA after SC administration of the antisense oligonucleotide?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1107_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Kidney\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1108",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1108_01.png"
+    },
+    "content": "In the Bosques et al 2016 review, which treatment method was highlighted as a focus according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1108_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Electrical stimulation\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1109",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1109_01.png"
+    },
+    "content": "In the chart, which two compounds contain fluorine in the R group according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1109_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"20, 22\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1110",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1110_01.png"
+    },
+    "content": "In the chart, which two compounds have the same cellular IC50 according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1110_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"18, 19\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1111",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1111_01.png"
+    },
+    "content": "In the table, which two genes have primers with the highest annealing temperature, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1111_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Otx1 and Emx1\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1112",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1112_01.png"
+    },
+    "content": "In the chart, which variable had the tightest 95% confidence interval, as seen in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1112_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Type of home (4-10 months of pregnancy) - apartment\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1113",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1113_01.png"
+    },
+    "content": "In the regression analysis presented, which variable has the most significant negative impact on efficiency residuals according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1113_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Organizational autonomy\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1114",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1114_01.png"
+    },
+    "content": "In the chart provided, which variable shows the highest odds ratio (OR) for the propensity matched group in <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1114_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Citrobacter '1'\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1115",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1115_01.png"
+    },
+    "content": "In the chart, which vessel size and group combination had the largest mean value at location M according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1115_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Large, M\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1116",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1116_01.png"
+    },
+    "content": "In the provided table, which was the most commonly used AAV serotype according to <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1116_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"AAV2\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1117",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1117_01.png"
+    },
+    "content": "In the chart, who was listed as a co-author on grant 024.005.022 'DB12' from Nederlandse Organisatie voor Wetenschappelijk Onderzoek <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1117_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, the answer is \"Marcel van Gerven\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1118",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1118_01.png"
+    },
+    "content": "In this table, what is the statistical power when the effect size (fold change) is 2 and there are only 3 replicates per group <document1>?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1118_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, The statistical power is 87% when the effect size is 2 and there are 3 replicates per group."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1119",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1119_01.png"
+    },
+    "content": "<document1> In this table, At a gap size of 1.5 mm, what percentage of fractures were classified as \"United\" at 5 weeks based on the AO-ASIF system?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1119_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, at a gap size of 1.5 mm, 29% of fractures were classified as \"United\"."
+  }
+}
+
+{
+  "domain": "natural_science",
+  "subdomain": "biology",
+  "id": "1120",
+  "input": {
+    "modal": {
+      "document1": "document/doc_1120_01.png"
+    },
+    "content": "According to <document1>, at 12 months, what is the median percentage (with IQR) of patients reporting no regurgitation?"
+  },
+  "output": {
+    "modal": {
+      "image1": "image/img_1120_01.png"
+    },
+    "content": "As indicated by the boxed area in <image1>, at 12 months, 100% (91-100%) of patients reported no regurgitation."
+  }
+}

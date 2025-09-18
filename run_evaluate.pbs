@@ -1,0 +1,14 @@
+#!/bin/bash
+#PBS -N evaluate_job
+#PBS -q auto_free
+#PBS -l select=1:ngpus=1:ncpus=32:mem=240gb:gpu-type=nvidia
+#PBS -l walltime=04:00:00
+#PBS -o evaluate.out
+#PBS -e evaluate.err
+
+cd $PBS_O_WORKDIR
+
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate inco
+
+python evaluate.py

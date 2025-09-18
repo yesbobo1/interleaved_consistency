@@ -1,0 +1,51 @@
+{
+  "domain": "natural_science",
+  "subdomain": "engineering",
+  "id": "918",
+  "input": {
+    "modal": {
+      "threeD1": "threeD/thd_0918_01.ply"
+    },
+    "content": "Produce the matching mesh file from <threeD1>."
+  },
+  "output": {
+    "modal": {
+      "threeD2": "threeD/thd_0918_01.off"
+    },
+    "content": "The completed mesh is <threeD2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "engineering",
+  "id": "919",
+  "input": {
+    "modal": {
+      "threeD1": "threeD/thd_0919_01.ply"
+    },
+    "content": "Please transform <threeD1> to its 3D mesh file."
+  },
+  "output": {
+    "modal": {
+      "threeD2": "threeD/thd_0919_01.off"
+    },
+    "content": "The resulting 3D mesh is <threeD2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "engineering",
+  "id": "920",
+  "input": {
+    "modal": {
+      "threeD1": "threeD/thd_0920_01.ply"
+    },
+    "content": "Create a 3D mesh from <threeD1>."
+  },
+  "output": {
+    "modal": {
+      "threeD2": "threeD/thd_0920_01.off"
+    },
+    "content": "The produced file is <threeD2>."
+  }
+}
