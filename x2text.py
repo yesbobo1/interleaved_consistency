@@ -1,5 +1,7 @@
 # x2text.py
 import os
+import pandas as pd
+import io
 os.environ["FORCE_QWENVL_VIDEO_READER"] = "torchvision"
 import re
 import base64
@@ -18,6 +20,7 @@ from pathlib import Path
 import open3d as o3d
 import matplotlib.pyplot as plt
 import numpy as np
+from PIL import Image
 
 # 关闭所有 warning
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -116,38 +119,99 @@ def image_to_text(image_url, model_name="gpt-4o"):
         print("Error generating image caption:", e)
         return ""
 
-def document_to_text(input_image_url, model_name="gpt-4o"):
+def csv_to_png_base64(csv_url):
     """
-    先用 OCR 提取 document 中的文字，然后用 GPT-4o 生成 dense caption
+    将 CSV 渲染成 PNG，并返回 base64 编码
     """
-    # Step 1: OCR 提取文本
-    extracted_text = ocr_extract_text(input_image_url)
+    try:
+        df = pd.read_csv(csv_url)
+        fig, ax = plt.subplots(figsize=(min(12, len(df.columns)*1.2), 6))
+        ax.axis('off')
+        table = ax.table(cellText=df.values,
+                         colLabels=df.columns,
+                         loc='center',
+                         cellLoc='center')
+        table.auto_set_font_size(False)
+        table.set_fontsize(8)
+        table.scale(1.2, 1.2)
 
-    # Step 2: 构造 GPT-4o prompt
+        buf = io.BytesIO()
+        plt.savefig(buf, format="png", bbox_inches="tight", dpi=200)
+        plt.close(fig)
+        buf.seek(0)
+
+        # 转 base64
+        img = Image.open(buf)
+        buffered = io.BytesIO()
+        img.save(buffered, format="PNG")
+        img_b64 = base64.b64encode(buffered.getvalue()).decode("utf-8")
+        return img_b64
+    except Exception as e:
+        print("Error converting CSV to PNG:", e)
+        return None
+
+def document_to_text(input_file_url, model_name="gpt-4o"):
+    """
+    根据文件类型决定处理方式:
+    - 如果是 csv 文件，转成 png 后进行 OCR，并带上 base64 图片
+    - 如果是 pdf/docx/txt 文件，直接交给 GPT-4o
+    - 其他情况（如图片），先用 OCR 提取文本
+    """
+    file_ext = os.path.splitext(input_file_url.split("?")[0])[1].lower()
+    no_ocr_exts = {".pdf", ".docx", ".txt"}
+
+    extracted_text = ""
+    img_base64 = None
+
+    if file_ext == ".csv":
+        # CSV → PNG → OCR
+        img_base64 = csv_to_png_base64(input_file_url)
+        """if img_base64:
+            extracted_text = ocr_extract_text(img_base64)"""  # 这里假设 ocr_extract_text 支持 base64 图片输入
+    elif file_ext not in no_ocr_exts:
+        # 其他文件（如图片）
+        extracted_text = ocr_extract_text(input_file_url)
+
+    # 构造 prompt
     prompt = f"""
     You are a visual and document captioning assistant. 
 
-    Below is a document image and its extracted text. 
-    Generate a **dense description** that covers both the visual layout of the image 
-    and the textual content extracted. Describe objects, layout, text content, 
+    Below is a document (file or image) and its extracted text (if available). 
+    Generate a **dense description** that covers both the visual layout 
+    and the textual content. Describe objects, layout, text content, 
     relationships, and context in detail.
 
-    [Image URL]
-    {input_image_url}
+    [File URL]
+    {input_file_url}
 
     [Extracted Text]
-    {extracted_text}
+    {extracted_text if extracted_text else "N/A"}
 
     [Response Requirement]
     Return only a dense caption, do not include any system/user markers or extra explanation.
     """
+
+    # 构造输入消息
+    messages = [
+        {"role": "system", "content": "You are a strict visual captioning assistant."},
+        {"role": "user", "content": prompt}
+    ]
+
+    if img_base64:  # 如果是 CSV，额外上传图片
+        messages.append(
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": "Here is the CSV rendered as an image:"},
+                    {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{img_base64}"}}
+                ]
+            }
+        )
+
     try:
         response = client.chat.completions.create(
             model=model_name,
-            messages=[
-                {"role": "system", "content": "You are a strict visual captioning assistant."},
-                {"role": "user", "content": prompt}
-            ]
+            messages=messages
         )
         caption = response.choices[0].message.content.strip()
         return caption
