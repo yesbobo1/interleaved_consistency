@@ -2,8 +2,16 @@
 用于5.2连贯性的evaluation
 ## 运行命令
 ```
-python evaluate.py --input path/to/input.jsonl --output path/to/output.jsonl
+python evaluate_local.py -i "path/to/input.jsonl" -o "path/to/output.jsonl" -d "dapa/path"
+
 ```
+## dapa/path结构
+·dataset
+    ·domain
+        ·subdomain
+            ·video
+            ·audio
+            ·document
 ## 生成格式示例
 ```
 {
