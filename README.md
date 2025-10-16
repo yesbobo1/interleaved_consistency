@@ -6,12 +6,13 @@ python evaluate_local.py -i "path/to/input.jsonl" -o "path/to/output.jsonl" -d "
 
 ```
 ## dapa/path结构
-·dataset
-    ·domain
-        ·subdomain
-            ·video
-            ·audio
-            ·document
+dataset/
+├── domain/
+│   ├── subdomain/
+│   │   ├── video/
+│   │   ├── audio/
+│   │   └── document/
+
 ## 生成格式示例
 ```
 {
@@ -28,18 +29,5 @@ python evaluate_local.py -i "path/to/input.jsonl" -o "path/to/output.jsonl" -d "
     }
 }
 ```
-## 需要修改的部分
-evaluation.py
-```
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/liyanlin06/any2any_data/main/"
-
-# --- 定义 subdomain 对应的 URL 模板 ---
-SUBDOMAIN_URL_MAP = {
-    "default": "{GITHUB_RAW_BASE}{processed_domain}/{subdomain}/{path}",
-    "food": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-Interleaved-Data-Pipline/main/original_data/{path}",
-    "engineering": "https://raw.githubusercontent.com/GuoMinghui07/engineering/main/{path}",
-    "computer_science": "{GITHUB_RAW_BASE}natural_science/computer_science/{path}",
-    "culture": "https://raw.githubusercontent.com/micky-li-hd/any2any_culture/main/{path}",
-}
-```
-需要改为与当前仓库匹配的路径
+## 环境配置
+environment.yaml
