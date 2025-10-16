@@ -1,5 +1,28 @@
 # interleaved_consistency
 用于5.2连贯性的evaluation
+## 准备
+
+同时开两个终端并申请GPU节点，注意两个节点的数字必须一样
+
+终端A作为vllm服务器：
+
+```
+CUDA_VISIBLE_DEVICES=0 python -m vllm.entrypoints.openai.api_server \
+--model Qwen/Qwen2.5-Omni-3B \
+--port 8000 \
+--dtype bfloat16 \
+--max-model-len 32768 \
+--enable-log-requests \
+--max-num-batched-tokens 8192 \
+--max-num-seqs 32 \
+--gpu-memory-utilization 0.9 \
+--h11-max-incomplete-event-size 200000000 \
+--task generate \
+--limit-mm-per-prompt '{"video": 1}'
+```
+
+终端B作为vllm客户端：
+
 ## 运行命令
 ```
 python evaluate_local.py -i "path/to/input.jsonl" -o "path/to/output.jsonl" -d "dapa/path"
