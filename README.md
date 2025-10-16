@@ -6,13 +6,14 @@ python evaluate_local.py -i "path/to/input.jsonl" -o "path/to/output.jsonl" -d "
 
 ```
 ## dapa/path结构
+```
 dataset/
 ├── domain/
 │   ├── subdomain/
 │   │   ├── video/
 │   │   ├── audio/
 │   │   └── document/
-
+```
 ## 生成格式示例
 ```
 {
