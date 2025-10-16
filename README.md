@@ -54,4 +54,10 @@ dataset/
 }
 ```
 ## 环境配置
-environment.yaml
+如果已经配置过转caption的环境，则不用重新配
+
+environment_1.yaml
+
+如果vllm安装报错，可以直接从如下链接安装
+
+https://github.com/vllm-project/vllm/releases/download/v0.10.2/vllm-0.10.2+cu129-cp38-abi3-manylinux1_x86_64.whl
