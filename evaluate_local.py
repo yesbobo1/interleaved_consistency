@@ -327,6 +327,14 @@ if __name__ == "__main__":
         # --- 调用 GPT-4o 评分 ---
         score = evaluate_with_4o(final_text)
 
+        # --- 若无评分或输出异常，则补默认值 ---
+        if not isinstance(score, dict) or not score:
+            score = {"coherence": 1, "style_consistency": 1}
+        else:
+            # 补齐缺失项
+            score.setdefault("coherence", 1)
+            score.setdefault("style_consistency", 1)
+
         # --- 写入结果 ---
         result_obj = {
             "domain": domain,
