@@ -342,6 +342,7 @@ if __name__ == "__main__":
             "id": rec_id,
             "content": final_text,        # 替换完标签后的 content
             "modal": modal_text_map,      # 每个 tag 对应 dense caption
+            "difficulty_level": item.get("difficulty_level"),
             "score": score
         }
         with open(output_file, "a", encoding="utf-8") as fout:
